@@ -21,7 +21,7 @@ git clone <img src=".\icon\github.png"/> https://github.com/MarValverdeB/currenc
 - HttpClient
 - HttpResponse
 - HttpRequest
-En formato JSON
+- En formato JSON
 
 ## La pantalla inicial se muestra a continuación:
 <img src=".\icon\consola.png"/>
