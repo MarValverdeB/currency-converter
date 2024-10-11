@@ -1,50 +1,49 @@
-    # Currency Converter ![](C:\Users\marva\IdeaProjects\currency-converter\icon\moneda.png)
+# Currency Converter <img src=".\icon\moneda.png"/>
 
-    El Convertidor de monedas es un conversor de divisas, en primera instancia cambia la divisa USD a las 161 divisas con las que se trabaja, en segunda instancia de una divisa deseada a las 161 divisas, en tercera instancia de una divisa a otra, en cuarta instancia de una divisa a otra con la diferencia que se pone la cantidad a convertir.
-    
-    ## Instalación
+El Convertidor de monedas es un conversor de divisas, en primera instancia cambia la divisa USD a las 161 divisas con las que se trabaja, en segunda instancia de una divisa deseada a las 161 divisas, en tercera instancia de una divisa a otra, en cuarta instancia de una divisa a otra con la diferencia que se pone la cantidad a convertir.
 
-    - Java JDK: Versión 17 
-    - Biblioteca Gson 2.10.1 en adelante
-    - Postman
-    - IDE Intellij IDEA
+## Instalación
 
-    # 👉 Sigue estos pasos para ambientar el proyecto en tu compiutadora!
+- Java JDK: Versión 17 
+- Biblioteca Gson 2.10.1 en adelante
+- Postman
+- IDE Intellij IDEA
 
-    ## Paso 1️⃣: Clona el repositorio
-    git clone ![](C:\Users\marva\IdeaProjects\currency-converter\icon\github.png) https://github.com/MarValverdeB/currency-converter
-    ## Paso 2️⃣ : Abre el folder en Intellij IDEA
-    ## Paso 3️⃣ : Botón run para ejecutar la clase principal
+# 👉 Sigue estos pasos para ambientar el proyecto en tu computadora!
 
-    ## Stack Tecnológico
+## Paso 1️⃣: Clona el repositorio
+git clone <img src=".\icon\github.png"/> https://github.com/MarValverdeB/currency-converter
+## Paso 2️⃣ : Abre el folder en Intellij IDEA
+## Paso 3️⃣ : Botón run para ejecutar la clase principal
 
-    - HttpClient
-    - HttpResponse
-    - HttpRequest
-    En formato JSON
+## Stack Tecnológico
 
-    ## La pantalla inicial se muestra a continuación:
-    ![](C:\Users\marva\IdeaProjects\currency-converter\icon\consola.png)
+- HttpClient
+- HttpResponse
+- HttpRequest
+En formato JSON
 
-    👉 Sigue estos pasos para probar la funcionalidad:
+## La pantalla inicial se muestra a continuación:
+<img src=".\icon\consola.png"/>
 
-    ## Seleccionar una opción:
+👉 Sigue estos pasos para probar la funcionalidad:
 
-        - Paso 1️ : Conversión por Default (USD).
-        - Paso 2️ : Convertir moneda.
-        - Paso 3️ : Convertir de una moneda a otra.
-        - Paso 4 : Convertir una cantidad de moneda a otra.
-        - Paso 0 : Salir.
+## Seleccionar una opción:
 
-    ## Desarrollador
+    - Paso 1️ : Conversión por Default (USD).
+    - Paso 2️ : Convertir moneda.
+    - Paso 3️ : Convertir de una moneda a otra.
+    - Paso 4 : Convertir una cantidad de moneda a otra.
+    - Paso 0 : Salir.
 
-    Mariela Guadalupe Valverde Benitez.
-    ## Sigueme en LinkedIn
-    - ![](C:\Users\marva\IdeaProjects\currency-converter\icon\linkedIn.png) [Mariela en LinkedIn](https://www.linkedin.com/in/marielavalverdeb/)
+## Desarrollador
+
+Mariela Guadalupe Valverde Benitez.
+## Sigueme en LinkedIn
+- <img src=".\icon\linkedln.png"/> [Mariela en LinkedIn](https://www.linkedin.com/in/marielavalverdeb/)
 
 
-    ##  License 
+##  License 
 
-    [MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
-    
