@@ -18,10 +18,11 @@ git clone <img src=".\icon\github.png"/> https://github.com/MarValverdeB/currenc
 
 ## Stack Tecnológico
 
+- API para convertir moneda : https://www.exchangerate-api.com/
 - HttpClient
 - HttpResponse
 - HttpRequest
-- En formato JSON
+- Formato JSON
 
 ## La pantalla inicial se muestra a continuación:
 <img src=".\icon\consola.png"/>
