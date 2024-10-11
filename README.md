@@ -1,4 +1,4 @@
-    # Currency Converter ![img.png](img.png)
+    # Currency Converter ![](C:\Users\marva\IdeaProjects\currency-converter\icon\moneda.png)
 
     El Convertidor de monedas es un conversor de divisas, en primera instancia cambia la divisa USD a las 161 divisas con las que se trabaja, en segunda instancia de una divisa deseada a las 161 divisas, en tercera instancia de una divisa a otra, en cuarta instancia de una divisa a otra con la diferencia que se pone la cantidad a convertir.
     
@@ -12,7 +12,7 @@
     # 👉 Sigue estos pasos para ambientar el proyecto en tu compiutadora!
 
     ## Paso 1️⃣: Clona el repositorio
-    git clone <img src="/icon/github.png"> https://github.com/MarValverdeB/currency-converter
+    git clone ![](C:\Users\marva\IdeaProjects\currency-converter\icon\github.png) https://github.com/MarValverdeB/currency-converter
     ## Paso 2️⃣ : Abre el folder en Intellij IDEA
     ## Paso 3️⃣ : Botón run para ejecutar la clase principal
 
@@ -24,7 +24,7 @@
     En formato JSON
 
     ## La pantalla inicial se muestra a continuación:
-    <![img_1.png](img_1.png)>
+    ![](C:\Users\marva\IdeaProjects\currency-converter\icon\consola.png)
 
     👉 Sigue estos pasos para probar la funcionalidad:
 
@@ -40,7 +40,7 @@
 
     Mariela Guadalupe Valverde Benitez.
     ## Sigueme en LinkedIn
-    - <img src="/icon/linkedln.png"> [Mariela en LinkedIn](https://www.linkedin.com/in/marielavalverdeb/)
+    - ![](C:\Users\marva\IdeaProjects\currency-converter\icon\linkedIn.png) [Mariela en LinkedIn](https://www.linkedin.com/in/marielavalverdeb/)
 
 
     ##  License 
